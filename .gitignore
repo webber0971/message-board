@@ -1,0 +1,7 @@
+a.py
+buildInfoDatabase.py
+data.yml
+Dockerfile
+print.py
+requirements.txt
+testUploadFileToS3.py

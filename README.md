@@ -25,6 +25,7 @@ client-2000 duration-15sec https://bit.ly/3jdI47O
   <li>用 flask 架設後端 web application</li>
   <li>用 cache 減少訪問RDS頻率，並加快資料加載速度</li>
   <li>用nginx架設web server</li>
+  <li>用docker部屬並上線</li>
   <li>將前端html js css分開達到mvc</li>
   
   ![image](https://user-images.githubusercontent.com/101098094/215284454-1bad88f6-956c-4e18-bf9e-06fc247f5fa7.png)
